@@ -55,5 +55,5 @@ public class StringExercises {
     public String mixUp(String a, String b) {
         return null;
     }
-    
+
 }
