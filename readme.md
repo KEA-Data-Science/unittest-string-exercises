@@ -5,4 +5,6 @@ The test class is already created and can be found in test -> java -> kea.clbo -
 
 If you run the tests now they all fail.
 
-Your job is to read the tests and afterwards create the right code for the methods in this StringExercises class.
+Your job is to read the tests and afterwards create the right code for the methods in this StringExercises class.   
+
+When all tests pass you solved the exercises tasks.
